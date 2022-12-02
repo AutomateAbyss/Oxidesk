@@ -1,6 +1,6 @@
-# AutomateAbyss - TrelloClone.
+# AutomateAbyss - Oxidesk.
 
-Simple Trello clone because we have nothing to do and it looks kinda interesting.
+Simple clone of Trello app, because we have nothing to do and it looks kinda interesting.
 
 ## Table of contents
 
@@ -27,7 +27,7 @@ For fun.
 
 ### Links
 
-- Hey, it's not done yet: [Will be here :)](https://github.com/AutomateAbyss/TrelloClone)
+- Hey, it's not done yet: [Will be here :)](https://github.com/AutomateAbyss/Oxidesk)
 
 ## My process
 
