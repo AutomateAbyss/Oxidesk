@@ -46,7 +46,6 @@
                 targets = ["x86_64-unknown-linux-gnu" "wasm32-unknown-unknown" ];
             }))
           ];
-          shellHook = ''cargo install sea-orm-cli --no-default-features --features "async-std runtime-actix-rustls cli codegen"'';
       };
     });
 }
